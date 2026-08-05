@@ -1,0 +1,7 @@
+﻿anthropic
+chromadb
+openai
+python-dotenv
+requests
+
+pytest
